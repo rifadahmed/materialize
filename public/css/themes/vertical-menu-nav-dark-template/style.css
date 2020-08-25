@@ -5846,7 +5846,7 @@ li.home:before {
 
 .gradient-45deg-deep-purple-blue {
   background: #6200ea;
-  background: linear-gradient(45deg, #6200ea, #1976D2) !important;
+  background: black !important;
 }
 
 .gradient-45deg-deep-purple-blue.gradient-shadow {

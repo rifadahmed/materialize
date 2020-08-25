@@ -135,6 +135,22 @@
       "slug": "app-file-manager"
     },
     {
+      "url": "app-file-manager",
+      "name": "myNavBar",
+      "i18n": "myNavBar",
+      "class": "waves-effect waves-cyan",
+      "icon": "content_paste",
+      "slug": "app-file-manager"
+    },
+    {
+      "url": "app-file-manager",
+      "name": "myNavBar2",
+      "i18n": "myNavBar2",
+      "class": "waves-effect waves-cyan",
+      "icon": "content_paste",
+      "slug": "app-file-manager"
+    },
+    {
       "url": "app-contacts",
       "name": "Contacts",
       "i18n": "Contacts",
