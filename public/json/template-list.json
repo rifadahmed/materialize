@@ -523,6 +523,12 @@
       "category": "Applications"
     },
     {
+      "url": "app-file-manager",
+      "name": "myNavBar2",
+      "icon": "content_paste",
+      "category": "Applications"
+    },
+    {
       "url": "app-contacts",
       "name": "Contacts",
       "icon": "import_contacts",

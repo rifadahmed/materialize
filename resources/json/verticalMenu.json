@@ -2,39 +2,38 @@
   "menu": [
     {
       "url": "javascript:void(0)",
-      "name": "Manage Location type",
-      "i18n": "Manage Location type",
+      "name": "Manage Location",
+      "i18n": "Manage Location",
       "class": "collapsible-header waves-effect waves-cyan",
       "icon": "photo_filter",
       "slug": "",
       "submenu": [
         {
           "url": "javascript:void(0)",
-          "name": "Location type",
-          "i18n": "Location type",
+          "name": "Locations List",
+          "i18n": "Locations List",
           "slug": ""
         },
         {
           "url": "javascript:void(0)",
-          "class": "collapsible-header waves-effect waves-cyan",
-          "name": "Location type status",
-          "i18n": "Location type status",
-          "slug": "",
-          "submenu": [
-            {
-              "url": "javascript:void(0)",
-              "name": "Active",
-              "i18n": "Active",
-              "slug": ""
-            },
-            {
-              "url": "javascript:void(0)",
-              "name": "Inactive",
-              "i18n": "Inactive",
-              "slug": ""
-            }
-          ]
+          "name": "Add New Locations",
+          "i18n": "Add New Locations",
+          "slug": ""
+        },
+        {
+          "url": "javascript:void(0)",
+          "name": "Location Types List",
+          "i18n": "Location Types List",
+          "slug": ""
+        },
+        {
+          "url": "javascript:void(0)",
+          "name": "Add New Location Type",
+          "i18n": "Add New Location Type",
+          "slug": ""
         }
+
+
       ]
     }
   ]

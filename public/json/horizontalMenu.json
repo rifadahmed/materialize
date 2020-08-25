@@ -122,6 +122,18 @@
           "slug": "app-file-manager"
         },
         {
+          "url": "app-file-manager",
+          "name": "myNavBar",
+          "i18n": "myNavBar",
+          "slug": "app-file-manager"
+        },
+        {
+          "url": "app-file-manager",
+          "name": "myNavBar2",
+          "i18n": "myNavBar2",
+          "slug": "app-file-manager"
+        },
+        {
           "url": "javascript:void(0)",
           "name": "Invoice",
           "i18n": "Invoice",
